@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">O jogo do número secreto com reconhecimento de voz, foi desenvolvido para que os usuário não precisem digitar.</p>
+<p align="center">VidFlow é uma plataforma de vídeos extraídos do Youtube.</p>
 
 ## Tecnologias utilizadas durante o curso
 * HTML
